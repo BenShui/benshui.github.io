@@ -26,7 +26,7 @@ Consider the stochastic process $(X_n:n\geq1)$ defined above.
 
 + Show that the probability that the empty word ever reoccurs is $1/3$. (Hint: The empty word can only reappear if a word is followed by its inverse, such as $a^{-1},b,a$ followed by $a^{-1},b^{-1},a$, then reduced)
 + Let $g$ denote the function which counts the number of symbols in a word, where the empty word has length $0$. Thus $g(a,a,b)=3$, but $g(1)=0$. Let $Y_n:=g(X_n)$ be the length of word $X_n$. 
-  + Calculate $\mathbb{E}[Y_n|Y_{n-1}]$ 
+  + Calculate $\mathbb{E}[Y_n\|Y_{n-1}]$ 
   + Show that $\mathbb{E}[Y_n]=n/2$ 
 + Let $h_y$ denote the probability that $(Y_n:n\geq 1)$ hits $0$ started from $Y_0=y$. We have a single boundary condition, that $h_0=1$. Calculate $h_y$ for $y>0$. 
-  + Define the random variable $T:=\inf\{n\geq 1:Y_n=56\}$, the first time the process generates a reduced word of length 56. Derive an expression for $\mathbb{P}(X_T=a,a,a,\cdots,a,b,b,b,b)$, the probability that the word at iteration $T$ is symbol $a$ repeated 52 times followed by $b$ repeated 4 times.
+  + Define the random variable $T:=\inf\left\{n\geq 1:Y_n=56\right\}$, the first time the process generates a reduced word of length 56. Derive an expression for $\mathbb{P}(X_T=a,a,a,\cdots,a,b,b,b,b)$, the probability that the word at iteration $T$ is symbol $a$ repeated 52 times followed by $b$ repeated 4 times.
