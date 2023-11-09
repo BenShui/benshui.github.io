@@ -13,5 +13,6 @@ I am a Master of Finance student at the University of California, San Diego, and
 You can find my up-to-date [CV here](../jshui_cv.pdf).
 
 Email: jiahui_shui@163.com (preferred)
-       jishui@ucsd.edu
+
+jishui@ucsd.edu
 
