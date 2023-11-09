@@ -11,10 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* M.Fin. in Quantitative Finance, University of California, San Diego,  2024(Expected)
+* B.Econ. in Finance, Southwestern University of Finance and Economics, 2023
 Work experience
 ======
 * Summer 2015: Research Assistant
