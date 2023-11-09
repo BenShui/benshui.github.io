@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a MFin student that persuing PhD in Finance. 
+I am a Master of Finance student at the University of California, San Diego, and I previously earned my Bachelor's degree at Southwestern University of Finance and Economics, majoring in Finance and Artificial Intelligence. My research interests focus on asset pricing, the microstructure of financial markets, and game theory.
 
-## Bio
-=====
-Jiahui is
+You can find my up-to-date [CV here](../jshui_cv.pdf).
+
+Email: jiahui_shui@163.com (preferred)
+       jishui@ucsd.edu
+
