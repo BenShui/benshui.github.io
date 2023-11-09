@@ -5,6 +5,8 @@ permalink: /code/
 author_profile: true
 ---
 
+I can use several programming languages, among which the ones I'm most familiar with are Python and MATLAB. Below are some code examples.
+
 1. [Codes for papers](#codes-for-papers) 
 2. [Tutorials](#tutorials)
 
