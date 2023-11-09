@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/  
 
-  # - title: "Teaching"
-  #  url: /teaching/    
+  - title: "Studying"
+    url: /studying/
       
   - title: "Blog Posts"
     url: /year-archive/
@@ -12,5 +12,5 @@ main:
   # - title: "CV"
   #  url: /cv/
     
-  #- title: "Code"
-  #  url: /code/
+  - title: "Code"
+    url: /code/
