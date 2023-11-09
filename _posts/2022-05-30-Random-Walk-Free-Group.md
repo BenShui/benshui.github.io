@@ -1,6 +1,6 @@
 ---
 title: 'Random Walk on Free Group'
-date: 2012-08-14
+date: 2022-05-30
 permalink: /posts/2022/05/Random-Walk-Free-Group/
 tags:
   - interesting problems
