@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Studying"
+permalink: /studying/
+author_profile: true
+---
+
 # Current Studying
 
 ## Fall 2023, University of California, San Diego
