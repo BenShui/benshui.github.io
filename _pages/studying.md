@@ -11,13 +11,15 @@ author_profile: true
 
 + MGTF 401, Financial Accounting 
 + MGTF 402, Investment Analysis 
-+ MGTF 404, Financial Econometrics and Emperical Methods 
++ MGTF 404, Financial Econometrics and Emperical Methods
+  + Letter Grade: A+
 + MGTF 415, Collecting and Analyzing Financial Data 
+  + Letter Grade: A
 + ECON 210A, Macroeconomics
 
 ## Scores
 
-SWUFE GPA: 4.2/5.0 92/100, WES: 3.91/4
+SWUFE GPA: 4.2/5.0 92/100, WES: 3.92/4
 
 Rank: 5/340
 
