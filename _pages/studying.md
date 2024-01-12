@@ -7,17 +7,18 @@ author_profile: true
 
 # Current Studying
 
-## Fall 2023, University of California, San Diego
+Winter 2024, University of California, San Diego
++ ECON 210B: Macroeconomics B
+  + Notes can be found here
++ MGTF 403: Advanced Risk Management
++ MGTF 413: Computational Finance
++ MGTF 416: Professional Seminar
++ MGTF 417 Professional Communication
++ MGTF 421: Corporate Finance
 
-+ MGTF 401, Financial Accounting 
-+ MGTF 402, Investment Analysis 
-+ MGTF 404, Financial Econometrics and Emperical Methods
-  + Letter Grade: A+
-+ MGTF 415, Collecting and Analyzing Financial Data 
-  + Letter Grade: A
-+ ECON 210A, Macroeconomics
 
 ## Scores
+UCSD GPA: 4.0/4.0
 
 SWUFE GPA: 4.2/5.0 92/100, WES: 3.92/4
 
@@ -30,6 +31,14 @@ TOEFL: 104(R 26, L 29, S 23, W 26)
 CET6: 599
 
 ## Previous Studying
+
+Fall 2023, University of California, San Diego
+
++ MGTF 401, Financial Accounting(Letter Grade: A+)
++ MGTF 402, Investment Analysis(Letter Grade: A+)
++ MGTF 404, Financial Econometrics and Emperical Methods(Letter Grade: A+)
++ MGTF 415, Collecting and Analyzing Financial Data(Letter Grade: A)
++ ECON 210A, Macroeconomics (Letter Grade: A+)
 
 Spring 2023, Southwestern University of Finance and Economics
 
@@ -49,14 +58,10 @@ Fall 2022, Southwestern University of Finance and Economics
 
 Spring 2022, University of California, San Diego
 
-+ MATH 180C. Introduction to Stochastic Processes II 
-  + Letter Grade: A+ 
-+ MATH 173B. Optimization for Data Science II 
-  + Letter Grade: A+ 
-+ MGTF 411. Stochastic Calculus and Continuous Time Finance (Graduate Level Course)
-  + Letter Grade: A+ 
-+ MATH 280C. Probability Theory III (Graduate Level Course)
-  + Letter Grade: A
++ MATH 180C. Introduction to Stochastic Processes II(Letter Grade: A+)
++ MATH 173B. Optimization for Data Science II (Letter Grade: A+)
++ MGTF 411. Stochastic Calculus and Continuous Time Finance (Graduate Level Course, Letter Grade: A+)
++ MATH 280C. Probability Theory III (Graduate Level Course, Letter Grade: A)
   
 
 Fall 2021, Southwestern University of Finance and Economics
