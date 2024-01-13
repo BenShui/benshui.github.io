@@ -11,7 +11,7 @@ Winter 2024, University of California, San Diego
 + ECON 210B: Macroeconomics B
   + Notes can be found here
 + MGTF 403: Advanced Risk Management
-+ [MGTF 413: Computational Finance](../_courses/mgtf413)
++ [MGTF 413: Computational Finance](../courses/mgtf413)
 + MGTF 416: Professional Seminar
 + MGTF 417 Professional Communication
 + MGTF 421: Corporate Finance
