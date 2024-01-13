@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "MGTF413"
-permalink: /studying/
+permalink: /studying/mgtf413
 author_profile: true
 ---
 
