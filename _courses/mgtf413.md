@@ -3,8 +3,6 @@ title: "MGTF413: Computational Finance Methods"
 collection: courses
 permalink: /courses/mgtf413
 venue: "University of California, San Diego"
-date: Winter 2024
-location: "City, Country"
 ---
 
 ## Notes
