@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  courses:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,7 +247,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+    # _courses
+    - scope:
+        path: ""
+        type: courses
+      values:
+        layout: single
+        author_profile: true
+        share: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
