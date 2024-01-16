@@ -13,8 +13,8 @@ I can use several programming languages, among which the ones I'm most familiar 
 # Tutorials
 
 ## Gradient Descent and Newton's Method
-+ Slides: [Gradient_vs_Newton](files/Codes/GD_vs_NT/Gradient_descent_vs_Newton_method.pdf)
-+ Code(MATLAB): [GD_vs_NT](files/Codes/GD_vs_NT/Compare.m)
++ Slides: [Gradient_vs_Newton](../files/Codes/GD_vs_NT/Gradient_descent_vs_Newton_method.pdf)
++ Code(MATLAB): [GD_vs_NT](../files/Codes/GD_vs_NT/Compare.m)
 
 # Codes for papers
 
