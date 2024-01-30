@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Master of Finance student at the University of California, San Diego, and I previously earned my Bachelor's degree at Southwestern University of Finance and Economics, majoring in Finance and Artificial Intelligence. My research interests focus on asset pricing, the microstructure of financial markets, and game theory.
 
-You can find my up-to-date [CV here](../files/jshui_cv.pdf).
+You can find my up-to-date [CV here](https://drive.google.com/file/d/16FrTik2iehJ3eZ6o7b0fT9vv11RCt26w/view?usp=drive_link).
 
 Email: [jiahui_shui@163.com](mailto:jiahui_shui@163.com) (preferred)
 
