@@ -9,7 +9,7 @@ author_profile: true
 # Working papers
 
 - **Loss Aversion with Portfolio Choice**(with Jun Liu and Kai Li).
-  - This paper provides a comprehensive analysis of portfolio choice under prospect theory. We show that there is no optimal solution for half of the parameter space in which loss aversion is low. However, there always exist optimal solutions for the other half of the space. The lower bound of loss aversion above which optimal solutions exist increases without bound as asset returns become more skewed or the number of states increases. When the optimal solutions exist, their properties depend crucially on investor’s initial wealth level. For example, an investor with low initial wealth seeks negative skewness and may long (short) an asset with a negative (positive) risk premium.
+  - This paper studies optimal portfolio choice under the loss aversion utility proposed in Tversky and Kahneman (1992). The loss aversion utility imposes lower penalty for large losses than the risk aversion utility functions. As a result, it tends to generate large risky positions and sometimes unbounded optimal portfolios, especially when asset returns are highly skewed (either positive or negative). Loss averse investors may hold assets with a zero risk premium and hold a positive amount of assets with a negative risk premium. Loss aversion can affect the optimal portfolio only when the reference point is sufficiently high, a case that is less studied in the literature, and the loss aversion utility becomes the standard HARA utility when the reference point is low.
   - [Draft Article](../files/paper/loss_aversion.pdf)
 
 # Research in Progress
