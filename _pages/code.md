@@ -7,9 +7,15 @@ author_profile: true
 
 I can use several programming languages, among which the ones I'm most familiar with are Python and MATLAB. Below are some code examples.
 
-1. [Tutorials](#tutorials)
-2. [Codes for papers](#codes-for-papers)
+1. [Sample Code](#sample-code)
+2. [Tutorials](#tutorials)
+3. [Codes for papers](#codes-for-papers)
 
+# Sample Code
+1. Python
+   + [Python_sample_code](../files/Codes/Sample_code/Python_sample_code.py)
+2. MATLAB
+   + [MATLAB_smaple_code](../files/Codes/Sample_code/MATLAB_sample_code.m)
 # Tutorials
 
 ## Gradient Descent and Newton's Method
