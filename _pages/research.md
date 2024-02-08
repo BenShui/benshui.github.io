@@ -13,4 +13,4 @@ author_profile: true
   - [Draft Article](../files/paper/loss_aversion.pdf)
 
 # Research in Progress
-- **Roll Over Risk with Stochastic Interest Rate**(with Jun Pan and Jun Liu)
+- **Yield Spread Analysis**(with Jun Pan and Jun Liu)
