@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master of Finance student at the University of California, San Diego, and I previously earned my Bachelor's degree at Southwestern University of Finance and Economics, majoring in Finance and Artificial Intelligence. My research interests focus on asset pricing, the microstructure of financial markets, and game theory.
+I am a Master of Finance (provisional Ph.D. in Finance) student at the University of California, San Diego, and I previously earned my Bachelor's degree at Southwestern University of Finance and Economics, majoring in Finance and Artificial Intelligence. My research interests focus on asset pricing, the microstructure of financial markets, and game theory.
 
 You can find my up-to-date [CV here](https://drive.google.com/file/d/16FrTik2iehJ3eZ6o7b0fT9vv11RCt26w/view?usp=drive_link).
 
