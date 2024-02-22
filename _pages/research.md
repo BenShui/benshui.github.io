@@ -15,4 +15,4 @@ author_profile: true
 # Research in Progress
 
 - **Yield Spread Analysis**(with Jun Liu and Jun Pan).
-  - Investigating the relationship between short rate and yield spread.
+  - Investigating the relationship between short rate and yield spread. Q: Can yield spread increase with short rate?
