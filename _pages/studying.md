@@ -4,8 +4,13 @@ title: "Studying"
 permalink: /studying/
 author_profile: true
 ---
+## Upcoming Studying
+Spring 2024, University of California, San Diego
++ ECON 210C: Macroeconomics C
++ MGTF 495: Fixed Income
++ MGTF 407: Valuation
 
-# Current Studying
+## Current Studying
 
 Winter 2024, University of California, San Diego
 + ECON 210B: Macroeconomics B
