@@ -24,12 +24,6 @@ SWUFE GPA: 4.2/5.0 92/100, WES: 3.92/4
 
 Rank: 5/340
 
-English:
-
-GRE: 322(Verbal: 152, Quant: 170, AW: 3.0)
-TOEFL: 104(R 26, L 29, S 23, W 26)
-CET6: 599
-
 ## Previous Studying
 
 Fall 2023, University of California, San Diego
