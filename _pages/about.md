@@ -14,4 +14,4 @@ You can find my up-to-date [CV here](https://drive.google.com/file/d/16FrTik2ieh
 
 Email:  [jishui@ucsd.edu](mailto:jishui@ucsd.edu)
 
-[jhshui1111@gmail.com](mailto:jhshui1111@gmail.com)
+[jiahui_shui@163.com](mailto:jiahui_shui@163.com)
