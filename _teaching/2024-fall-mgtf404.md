@@ -10,6 +10,9 @@ location: "San Diego, CA"
 
 This course covers fundamental econometric tools that using in real financial world.
 
++ Office Hour: TBD
++ Discussion Session: TBD
+
 Slides
 ======
 
