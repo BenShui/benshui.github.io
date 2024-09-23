@@ -21,3 +21,5 @@ author_profile: true
 
 # Research Assistant
 - **Cropland** (with Michael Reher)
+
+- **Arbitrage-Free Factor Analysis: An Application to Affine Term-Structure Models**
