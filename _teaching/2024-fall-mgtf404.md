@@ -10,8 +10,8 @@ location: "San Diego, CA"
 
 This course covers fundamental econometric tools that using in real financial world.
 
-+ Office Hour: TBD
-+ Discussion Session: TBD
++ Office Hour: Fridays, 2-3 pm or by appointment
++ Discussion Session: Fridays, 12:50-1:50 pm, Room 1N108
 
 Slides
 ======
