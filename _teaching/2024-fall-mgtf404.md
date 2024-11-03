@@ -11,13 +11,17 @@ location: "San Diego, CA"
 This course covers fundamental econometric tools that using in real financial world.
 
 + Office Hour: Fridays, 4-5 pm or by appointment
-+ Discussion Session: Fridays, 12:40-1:40 pm, Room 1N108
++ Discussion Session: Fridays, 1:30-2:30 pm, Location TBD
 
-Slides
+Slides & Handouts
 ======
++ Lecture 1 (11/8): Homework 3 hints; Regression Review: (1) Finite Sample Theory (2) Large Sample Theory; Stambaugh bias
+  + [MGTF404_Lec1](../files/Teaching/MGTF404_Fall24/Slides/MGTF_404_Lec1.pdf)
++ Lecture 2 (11/15): VAR; MLE; Volatility Models
++ Lecture 3 (11/22): Homework 4 hints
++ Lecture 4 (11/29): 
 
-Notes
+Final Review (12/6)
 ======
-
-Final Review
-======
++ Slides
++ Notes
