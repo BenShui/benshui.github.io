@@ -14,12 +14,12 @@ author_profile: true
 
 # Research in Progress
 
+- **Arbitrage-Free Factor Analysis: An Application to Affine Term-Structure Models** (with Jun Pan and Jun Liu)
+  - Estimating affine term structure factors.
+
 - **Relationship between Corporate Yield Spread and Treasury Yield** (with Jun Liu and Jun Pan).
   - Investigating the relationship between short rate and yield spread. Q: Can yield spread increase with short rate?
   - Empirical result says yes. How can we explain it?
   - [Temp_Slides](../files/Slides/Yield_Spread_Slides.pdf)
+  
 
-# Research Assistant
-- **Cropland** (with Michael Reher)
-
-- **Arbitrage-Free Factor Analysis: An Application to Affine Term-Structure Models** (with Jun Pan and Jun Liu)

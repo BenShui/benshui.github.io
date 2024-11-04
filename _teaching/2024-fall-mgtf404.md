@@ -11,7 +11,7 @@ location: "San Diego, CA"
 This course covers fundamental econometric tools that using in real financial world.
 
 + Office Hour: Fridays, 4-5 pm or by appointment
-+ Discussion Session: Fridays, 1:30-2:30 pm, Location TBD
++ Discussion Session: Fridays, 1:30-2:30 pm, Location: OTRSN 1E106
 
 Slides & Handouts
 ======
