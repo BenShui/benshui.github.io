@@ -18,14 +18,18 @@ Slides & Handouts
 + Lecture 1 (11/8): Homework 3 hints; Regression Review: (1) Finite Sample Theory (2) Large Sample Theory; Stambaugh bias
   + [MGTF404_Lec1_Slides_blank](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec1_Slides_blank.pdf)
   + [MGTF404_Lec1_Slides_w_sol](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec1_Slides_w_sol.pdf)
+  + + [MGTF404_Handout1](../files/Teaching/MGTF404_Fall24/Notes/MGTF404_Handout1.pdf)
 + Lecture 2 (11/15): VAR; MLE
   + [MGTF404_Lec2_Slides_blank](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec2_Slides_blank.pdf)
   + [MGTF404_Lec2_Slides_w_sol](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec2_Slides_w_sol.pdf)
 + Lecture 3 (11/22): Homework 4 hints; Volatility Models; Non-stationary Processes
+  + [MGTF404_Lec3_Slides_blank](../_pages/404.md)
 + Lecture 4 (11/29): Homework 5 hints; Other topics (if time permits)
 
 Final Review (12/6)
 ======
 + Slides
+  + Final Review Slides:
 + Notes
-  + [MGTF404_Handout1](../files/Teaching/MGTF404_Fall24/Notes/MGTF404_Handout1.pdf)
+  + Final Review Notes:
+  + Study Guide

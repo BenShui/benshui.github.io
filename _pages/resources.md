@@ -10,6 +10,8 @@ author_profile: true
 Education
 ====
 
+## Notes on Affine Term Structure Models
++ 
 ## PhD Notes
 ### Math Notes
 Probability Theory:
