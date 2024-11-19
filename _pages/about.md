@@ -10,6 +10,6 @@ redirect_from:
 
 I am a Ph.D. student at Rady School of Management, UCSD, and I previously earned my Bachelor's degree at Southwestern University of Finance and Economics, majoring in Finance and Artificial Intelligence. My research interests focus on asset pricing, macro-finance, and game theory.
 
-You can find my up-to-date [CV here](https://drive.google.com/file/d/16FrTik2iehJ3eZ6o7b0fT9vv11RCt26w/view?usp=drive_link).
+You can find my up-to-date [CV here](https://www.dropbox.com/scl/fi/9kd9ec59qg1uepgjet77b/jshui_cv.pdf?rlkey=48scg50ans7455n8jhki93vgt&st=lhkgc7i0&dl=0).
 
 Email:  [jishui@ucsd.edu](mailto:jishui@ucsd.edu)
