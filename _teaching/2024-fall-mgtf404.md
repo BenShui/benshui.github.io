@@ -23,8 +23,10 @@ Slides & Handouts
   + [MGTF404_Lec2_Slides_blank](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec2_Slides_blank.pdf)
   + [MGTF404_Lec2_Slides_w_sol](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec2_Slides_w_sol.pdf)
 + Lecture 3 (11/22): Homework 4 hints; Volatility Models; Non-stationary Processes
-  + [MGTF404_Lec3_Slides_blank](../_pages/404.md)
+  + [MGTF404_Lec3_Slides_blank](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec3_Slides_blank.pdf)
+  + [MGTF404_Lec3_Slides_w_sol](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec3_Slides_w_sol.pdf)
 + Lecture 4 (11/29): Homework 5 hints; Other topics (if time permits)
+  + [MGTF404_Lec4_Slides_blank](../_pages/404.md)
 
 Final Review (12/6)
 ======
