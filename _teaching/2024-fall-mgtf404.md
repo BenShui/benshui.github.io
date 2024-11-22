@@ -22,10 +22,11 @@ Slides & Handouts
 + Lecture 2 (11/15): VAR; MLE
   + [MGTF404_Lec2_Slides_blank](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec2_Slides_blank.pdf)
   + [MGTF404_Lec2_Slides_w_sol](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec2_Slides_w_sol.pdf)
-+ Lecture 3 (11/22): Homework 4 hints; Volatility Models; Non-stationary Processes
++ Lecture 3 (11/22): Homework 4 hints; Volatility Models
   + [MGTF404_Lec3_Slides_blank](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec3_Slides_blank.pdf)
   + [MGTF404_Lec3_Slides_w_sol](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec3_Slides_w_sol.pdf)
-+ Lecture 4 (11/29): Homework 5 hints; Other topics (if time permits)
++ No class on 11/29 (Thanksgiving week)
++ Lecture 4 (12/6): Homework 5 hints; Non-stationary Processes; Other Topics (if time permits)
   + [MGTF404_Lec4_Slides_blank](../_pages/404.md)
 
 Final Review (12/6)
