@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-====
+
 
 ## Notes on Affine Term Structure Models
 + 
+
 ## PhD Notes
 ### Math Notes
 Probability Theory:
