@@ -26,13 +26,6 @@ Slides & Handouts
   + [MGTF404_Lec3_Slides_blank](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec3_Slides_blank.pdf)
   + [MGTF404_Lec3_Slides_w_sol](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec3_Slides_w_sol.pdf)
 + No class on 11/29 (Thanksgiving week)
-+ Lecture 4 (12/6): Homework 5 hints; Non-stationary Processes; Other Topics (if time permits)
-  + [MGTF404_Lec4_Slides_blank](../_pages/404.md)
-
-Final Review (12/6)
-======
-+ Slides
-  + Final Review Slides:
-+ Notes
-  + Final Review Notes:
-  + Study Guide
++ Lecture 4 (12/6): Final Review
+  + Slides: [MGTF404_Final_Review_Slides](../_pages/404.md)
+  + Notes:
