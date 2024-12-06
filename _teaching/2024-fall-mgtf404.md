@@ -12,6 +12,7 @@ This course covers fundamental econometric tools that using in real financial wo
 
 + Office Hour: Fridays, 4-5 pm or by appointment
 + Discussion Session: Fridays, 1:30-2:30 pm, Location: OTRSN 1E106
++ Final Review: 4-5 pm 12/6/24, Location: OTRSN 1E106; OH: 5-6 pm thereafter
 
 Slides & Handouts
 ======
@@ -27,5 +28,5 @@ Slides & Handouts
   + [MGTF404_Lec3_Slides_w_sol](../files/Teaching/MGTF404_Fall24/Slides/MGTF404_Lec3_Slides_w_sol.pdf)
 + No class on 11/29 (Thanksgiving week)
 + Lecture 4 (12/6): Final Review
-  + Slides: [MGTF404_Final_Review_Slides](../_pages/404.md)
-  + Notes:
+  + Slides: [MGTF404_Final_Review_Slides](../files/Teaching/MGTF404_Fall24/MGTF404_Final_Review.pdf)
+
