@@ -10,18 +10,7 @@ location: "San Diego, CA"
 
 Risk Management
 
-+ Office Hour: TBA
-+ Discussion Session: TBA
++ Office Hour: By Appointment
 
-Slides & Handouts
-======
-+ Lecture 1
-+ Lecture 2
-+ Lecture 3
-+ Lecture 4
 
-Final Review 
-======
-+ Slides
-+ Notes
-    + 
+I am not holding TA sessions this quarter.
