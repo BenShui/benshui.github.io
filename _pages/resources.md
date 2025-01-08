@@ -20,7 +20,7 @@ Stochastic Calculus/Stochastic Differential Equations
 
 
 ### Econometrics
-+ To be completed (expect: 3/31/25)
++ [EconometricsNotes](../files/Notes/EconometricsNotes.pdf)
 
 ### Microeconomics
 
