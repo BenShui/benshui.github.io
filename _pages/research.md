@@ -13,9 +13,9 @@ author_profile: true
 
 # Research in Progress
 
-- **Arbitrage-Free Factor Analysis: An Application to Affine Term-Structure Models** (with Jun Pan and Jun Liu)
+- **Arbitrage-Free Factor Analysis: An Application to Affine Term-Structure Models** (with Jun Liu and Jun Pan)
   - Use Sequential Regression to extract innovations
-  - [Temp_Slides](../files/Slides/AFFA_slides.pdf)
+  - [Temp_Slides]()
 
 - **Relationship between Corporate Yield Spread and Treasury Yield** (with Jun Liu and Jun Pan).
   - Investigating the relationship between short rate and yield spread. Q: Can yield spread increase with short rate?
