@@ -23,5 +23,5 @@ Probability Theory:
 
 Stochastic Calculus/Stochastic Differential Equations
 + MATH 286 [Lecture Notes produced by Vaki Nikitopoulos](https://sites.google.com/view/vakiniki/notes)
-+ [Seppalainen's notes](+ https://people.math.wisc.edu/~tseppalainen/bookpage.html)
++ [Seppalainen's notes](https://people.math.wisc.edu/~tseppalainen/bookpage.html)
 + Stochastic Calculus for ECON/Finance (To be completed)
