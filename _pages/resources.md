@@ -14,6 +14,10 @@ author_profile: true
 
 ### Macro-Finance
 
+### Microeconomics
++ [Advanced Micro Theory I](https://felixmunozgarcia.com/econs-501/)
++ [Advanced Micro Theory II - Game Theory](https://felixmunozgarcia.com/econs-503/)
+
 ### Econometrics
 + [EconometricsNotes](../files/Notes/EconometricsNotes.pdf)
 
