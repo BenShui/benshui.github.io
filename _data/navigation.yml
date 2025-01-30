@@ -9,8 +9,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  # - title: "CV"
-  #  url: /cv/
+  - title: "Discussion"
+    url: /discussion/
     
   - title: "Code"
     url: /code/
