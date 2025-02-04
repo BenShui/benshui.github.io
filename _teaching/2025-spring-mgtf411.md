@@ -8,9 +8,15 @@ date: 2025-02-04
 location: "San Diego, CA"
 ---
 
+## Information
 Asset Pricing Theory. This course was previously named as "Stochastic Calculus and Continuous-Time Finance"
 
-+ Office Hour: By Appointment
++ Office Hour: TBD
++ TA Session: TBD
 
+## Topics & Notes
++ Week 1: Binomial Model
+  + Handout 1: To be completed.
 
-I am not holding TA sessions this quarter.
++ Week 2: 
+
