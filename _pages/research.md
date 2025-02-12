@@ -13,7 +13,7 @@ author_profile: true
 
 # Research in Progress
 
-- **Safe Asset: A Hedging Perspective**
+- **Safe Asset**
   - Early Stage work. TBC
 
 - **Arbitrage-Free Factor Analysis: An Application to Affine Term-Structure Models** (with Jun Liu and Jun Pan)
