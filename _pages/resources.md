@@ -10,7 +10,7 @@ author_profile: true
 ## PhD Notes
 
 ### Asset Pricing
-+ TBC
++ [Empirical Asset Pricing Notes]()
 
 ### Macro-Finance
 
