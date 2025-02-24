@@ -17,7 +17,8 @@ author_profile: true
   - Early Stage work. TBC
 
 - **Arbitrage-Free Factor Analysis: An Application to Affine Term-Structure Models** (with Jun Liu and Jun Pan)
-  - Use Sequential Regression to extract innovations
+  - Extract factors from cross-sectional bond excess returns instead of yields
+  - Non-stationarity Matters?
   - [Temp_Slides]()
 
 - **Relationship between Corporate Yield Spread and Treasury Yield** (with Jun Liu and Jun Pan).
