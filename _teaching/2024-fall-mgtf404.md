@@ -30,3 +30,5 @@ Slides & Handouts
 + Lecture 4 (12/6): Final Review
   + Slides: [MGTF404_Final_Review_Slides](../files/Teaching/MGTF404_Fall24/MGTF404_Final_Review.pdf)
 
+## Advanced Material
++ [Notes on Conditional Expectation](../files/Notes/Notes_on_conditional_expectation.pdf)
