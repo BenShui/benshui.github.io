@@ -17,6 +17,7 @@ author_profile: true
 ### Microeconomics
 + [Advanced Micro Theory I](https://felixmunozgarcia.com/econs-501/)
 + [Advanced Micro Theory II - Game Theory](https://felixmunozgarcia.com/econs-503/)
++ Game Theory Notes: To be completed
 
 ### Econometrics
 + [EconometricsNotes](../files/Notes/EconometricsNotes.pdf)
@@ -27,6 +28,6 @@ Probability Theory:
 + [Notes on conditional expectation](../files/Notes/Notes_on_conditional_expectation.pdf)
 
 Stochastic Calculus/Stochastic Differential Equations
-+ MATH 286 [Lecture Notes produced by Vaki Nikitopoulos](https://sites.google.com/view/vakiniki/notes)
++ MATH 286 SDE: [Lecture Notes produced by Vaki Nikitopoulos](https://sites.google.com/view/vakiniki/notes)
 + [Seppalainen's notes](https://people.math.wisc.edu/~tseppalainen/bookpage.html)
 + Stochastic Calculus for ECON/Finance (To be completed)
