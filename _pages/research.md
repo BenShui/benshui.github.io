@@ -17,13 +17,10 @@ author_profile: true
   - Early Stage work. TBC
 
 - **Arbitrage-Free Factor Analysis: An Application to Affine Term-Structure Models** (with Jun Liu and Jun Pan)
-  - Extract factors from cross-sectional bond excess returns instead of yields
-  - Non-stationarity Matters?
+  - Coming Soon
   - [Temp_Slides]()
 
 - **Relationship between Corporate Yield Spread and Treasury Yield** (with Jun Liu and Jun Pan).
-  - Investigating the relationship between short rate and yield spread. Q: Can yield spread increase with short rate?
-  - Empirical result says yes. How can we explain it?
   - [Temp_Slides](../files/Slides/Yield_Spread_Slides.pdf)
   
 
