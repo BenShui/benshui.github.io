@@ -11,6 +11,7 @@ author_profile: true
 
 ### Asset Pricing
 + [Empirical Asset Pricing Notes]()
++ [Affine Term Structure Models](../files/Slides/ATSM_slides.pdf)
 
 ### Macro-Finance
 
