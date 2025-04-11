@@ -16,9 +16,11 @@ author_profile: true
 - **Belief implied by derivatives**
   - Early Stage work. TBC
 
-- **Arbitrage-Free Factor Analysis: An Application to Affine Term-Structure Models** (with Jun Liu and Jun Pan)
-  - Coming Soon
-  - [Temp_Slides]()
+[//]: # (- **Arbitrage-Free Extraction of Latent Factors** &#40;with Jun Liu and Jun Pan&#41;)
+
+[//]: # (  - Presented: Rady School of Management Finance Brown Bag)
+
+[//]: # (  - [Temp_Slides]&#40;&#41;)
 
 - **Relationship between Corporate Yield Spread and Treasury Yield** (with Jun Liu and Jun Pan).
   - Investigating the relationship between short rate and yield spread. Q: Can yield spread increase with short rate?
