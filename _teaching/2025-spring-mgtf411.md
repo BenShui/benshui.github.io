@@ -23,9 +23,8 @@ There will be a review session for exam. Time and location are TBD.
   + Handout 1: Arbitrage and FTAP
 
 + Week 2: The Black-Scholes Option Pricing
-  + Handout 2a: Conditional Expectation
+  + Handout 2a: [Conditional Expectation](../files/Notes/Notes_on_conditional_expectation.pdf)
   + Handout 2b: More on Brownian Motions
-+ 
 + Week 3: Feynman-Kac Formula
 + Week 4: Risk-Neutral Measure
 + Week 5: Term Structure of Interest Rates
