@@ -22,15 +22,25 @@ There will be a review session for exam. Time and location are TBD.
 + Week 1: Binomial Model
   + Handout 1: Arbitrage and FTAP
 
-+ Week 2: The Black-Scholes Option Pricing
++ Week 2: Introduction to Continuous Time Model
   + Handout 2a: [Conditional Expectation](../files/Notes/Notes_on_conditional_expectation.pdf)
   + Handout 2b: More on Brownian Motions
-+ Week 3: Feynman-Kac Formula
-+ Week 4: Risk-Neutral Measure
-+ Week 5: Term Structure of Interest Rates
-+ Week 6: Price Model for Multiple Stocks
-+ Week 7: Portfolio and Consumption Choice
-+ Week 8: Theory of Stock Prices: What causes stock price to
-  uctuate (Shiller)?
-+ Week 9: Theory of Interest Rate and Stock Return; Consumption-Based Asset Pricing Models
-+ Week 10: Risky Debt
++ Week 3: Black-Scholes Model
+
+[//]: # (+ Week 4: Feynman-Kac Formula)
+
+[//]: # (+ Week 4: Risk-Neutral Measure)
+
+[//]: # (+ Week 5: Term Structure of Interest Rates)
+
+[//]: # (+ Week 6: Price Model for Multiple Stocks)
+
+[//]: # (+ Week 7: Portfolio and Consumption Choice)
+
+[//]: # (+ Week 8: Theory of Stock Prices: What causes stock price to)
+
+[//]: # (  uctuate &#40;Shiller&#41;?)
+
+[//]: # (+ Week 9: Theory of Interest Rate and Stock Return; Consumption-Based Asset Pricing Models)
+
+[//]: # (+ Week 10: Risky Debt)

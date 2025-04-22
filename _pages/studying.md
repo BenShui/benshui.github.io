@@ -5,5 +5,6 @@ permalink: /studying/
 author_profile: true
 ---
 ## Current Courses
-+ ECON 200B: Microeconomics II
-+ ECON 220B: Econometrics II
++ ECON 200C: Microeconomics III
++ ECON 220C: Econometrics III
++ MGT 285: Financial Economics
