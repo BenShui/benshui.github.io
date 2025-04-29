@@ -8,7 +8,7 @@ tags:
 
 In the winter of 2025, I took my first Game Theory course. However, some of the topics were quite obscure, and due to time constraints, I didn’t fully grasp them. In particular, Perfect Bayesian Nash Equilibrium involves a belief system. For future reference, I will write rigorous notes on this topic during my first year.
 
-**The Notes on PBE will be posted here** [Notes on PBE](../files/Notes/Notes_on_the_PBE.pdf)
+**The Notes on PBE will be posted here** [Notes on PBE](./files/Notes/Notes_on_the_PBE.pdf)
 
 Question on Winter Final:
 

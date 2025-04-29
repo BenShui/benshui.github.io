@@ -15,7 +15,7 @@ Subjects: (1) Model for Financial asset prices: Brownian motions (random walk);
 (2) Theory of stock prices: CCAPM, excess volatility, equity premium; (3) Term structure models: Vasicek Model and CIR model. (4) Portfolio choice: stocks for the long run?
 
 + Office Hour: Monday 3-4 pm
-+ TA Session: There will be no TA sessions for this course
++ TA Session: Monday 2-3 pm, WFH 3N128
 
 There will be a review session for exam. Time and location are TBD.
 ## Schedule & Notes
@@ -24,12 +24,12 @@ There will be a review session for exam. Time and location are TBD.
 
 + Week 2: Introduction to Continuous Time Model
   + Handout 2a: [Conditional Expectation](../files/Notes/Notes_on_conditional_expectation.pdf)
-  + Handout 2b: More on Brownian Motions
+  + Handout 2b: More on Brownian Motions [Handout 2: BM](../files/Teaching/MGTF411_Spring25/Handout/APT_handout2_BM.pdf)
 + Week 3: Black-Scholes Model
+  + Handout 3a: [Handout 3a: Stochastic Calculus](../files/Teaching/MGTF411_Spring25/Handout/APT_handout3_stochastic_calculus.pdf)
++ Week 4: Risk-Neutral Measure
 
 [//]: # (+ Week 4: Feynman-Kac Formula)
-
-[//]: # (+ Week 4: Risk-Neutral Measure)
 
 [//]: # (+ Week 5: Term Structure of Interest Rates)
 
