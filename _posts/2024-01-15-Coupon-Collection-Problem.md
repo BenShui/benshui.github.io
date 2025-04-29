@@ -27,7 +27,7 @@ $$\mathbb{E}[T]=\sum_{i=1}^{n}\mathbb{E}[t_i]=n\sum_{i=1}^{n}\frac{1}{i}=nH_n$$
 
 where $H_n$ is the $n$-th harmonic number. And it has following asymptotics:
 
-$$\mathbb{E}[T]=n\log n+\gamma n+\frac{1}[2}+O(1/n)$$
+$$\mathbb{E}[T]=n\log n+\gamma n+\frac{1}{2}+O(1/n)$$
 
 where $\gamma\approx0.5772$ is the Euler constant.
 
