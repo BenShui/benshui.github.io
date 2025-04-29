@@ -6,8 +6,11 @@ tags:
   - Thoughts
 ---
 
-Recently I felt great depressed. From both relationships and researches. Somehow I feel so bad for myself. Why can't I handle all those things better? Why I suffer everyday? Why can't I make progress in research? Why can't I figure out all the problems in microeconomic while I consider myself as a theorist.
+Recently, I have been feeling deeply depressed—because of both my relationships and my research. I feel terrible about myself. Why can’t I handle things better? Why do I suffer every day? Why can’t I make progress in my research? Why can’t I solve the problems in microeconomics when I consider myself a theorist?
 
-All those kind made me feel so bad to myself. I always ask: why am I so bad? Sounds like a super pessimistic emotion. But I am pretty sure, most of PhD students will experience those kind of emotion at least once in the life. I found some interesting videos that may help us get out from the trap.
+All of this makes me feel awful. I keep asking myself, “Why am I so bad?” It sounds like an extremely pessimistic mindset, but I’m pretty sure most PhD students experience emotions like this at least once in their lives. I’ve found some interesting videos that might help us escape this trap.
 
 + [The skill of self confidence](https://www.youtube.com/watch?v=w-HYZv6HzAs)
+  + "No one will believe in you, unless you do"
+  + "We are supposed to be different. When people look at us, believe in yourself"
++ 
