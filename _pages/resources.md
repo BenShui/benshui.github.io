@@ -33,3 +33,6 @@ Stochastic Calculus/Stochastic Differential Equations
 + MATH 286 SDE: [Lecture Notes produced by Vaki Nikitopoulos](https://sites.google.com/view/vakiniki/notes)
 + [Seppalainen's notes](https://people.math.wisc.edu/~tseppalainen/bookpage.html)
 + Stochastic Calculus for ECON/Finance (To be completed)
+
+### For Master Students
++ [Quant Career Path](https://finmath.uchicago.edu/careers/career-paths-in-quantitative-finance/)
