@@ -25,9 +25,13 @@ There will be a review session for exam. Time and location are TBD.
 + Week 2: Introduction to Continuous Time Model
   + Handout 2a: [Conditional Expectation](../files/Notes/Notes_on_conditional_expectation.pdf)
   + Handout 2b: More on Brownian Motions [Handout 2: BM](../files/Teaching/MGTF411_Spring25/Handout/APT_handout2_BM.pdf)
+
 + Week 3: Black-Scholes Model
   + Handout 3a: [Handout 3a: Stochastic Calculus](../files/Teaching/MGTF411_Spring25/Handout/APT_handout3_stochastic_calculus.pdf)
+
 + Week 4: Risk-Neutral Measure
+
++ Week 5: Stocks for the Long Run
 
 [//]: # (+ Week 4: Feynman-Kac Formula)
 
