@@ -30,21 +30,16 @@ There will be a review session for exam. Time and location are TBD.
   + Handout 3a: [Handout 3a: Stochastic Calculus](../files/Teaching/MGTF411_Spring25/Handout/APT_handout3_stochastic_calculus.pdf)
 
 + Week 4: Risk-Neutral Measure
+  + Handout 4: To be completed
 
 + Week 5: Stocks for the Long Run
 
-[//]: # (+ Week 4: Feynman-Kac Formula)
++ Week 6: Price Model for Multiple Stocks
 
-[//]: # (+ Week 5: Term Structure of Interest Rates)
++ Week 7: Excess Volatility
 
-[//]: # (+ Week 6: Price Model for Multiple Stocks)
++ Week 8: Term Structure Model
 
-[//]: # (+ Week 7: Portfolio and Consumption Choice)
++ Week 9: Student Presentation
 
-[//]: # (+ Week 8: Theory of Stock Prices: What causes stock price to)
-
-[//]: # (  uctuate &#40;Shiller&#41;?)
-
-[//]: # (+ Week 9: Theory of Interest Rate and Stock Return; Consumption-Based Asset Pricing Models)
-
-[//]: # (+ Week 10: Risky Debt)
++ Week 10: Final Exam
