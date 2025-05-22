@@ -38,7 +38,7 @@ There will be a review session for exam. Time and location are TBD.
 
 + Week 7: Excess Volatility
 
-+ Week 8: Term Structure Model
++ Week 8: Consumption CAPM
 
 + Week 9: Student Presentation
 

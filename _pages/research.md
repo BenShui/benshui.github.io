@@ -13,12 +13,12 @@ author_profile: true
 
 # Research in Progress
 
-- **Belief implied by derivatives**
-  - Early Stage work. TBC
+- **Option Implied Beliefs and Forward Guidance**
+  - Coming Soon
 
-[//]: # (- **Arbitrage-Free Extraction of Latent Economic Factors** &#40;with Jun Liu and Jun Pan&#41;)
+- **Arbitrage-Free Extraction of Latent Economic Factors** (with Jun Liu and Jun Pan)
 
-[//]: # (  - Presented: Rady School of Management Finance Brown Bag)
+  - Presented: Rady School of Management Finance Brown Bag
 
 - **Relationship between Corporate Yield Spread and Treasury Yield** (with Jun Liu and Jun Pan).
   - Investigating the relationship between short rate and yield spread. Q: Can yield spread increase with short rate?
