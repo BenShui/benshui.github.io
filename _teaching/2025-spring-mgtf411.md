@@ -17,7 +17,8 @@ Subjects: (1) Model for Financial asset prices: Brownian motions (random walk);
 + Office Hour: Monday 3-4 pm
 + TA Session: Monday 2-3 pm, WFH 3N128
 
-There will be a review session for exam. Time and location are TBD.
+[Final Review Session](../files/Teaching/MGTF411_Spring25/APT_Final_Review_2025.pdf): Thursday(5/29), 4pm-6pm OTRSN 1E107
+
 ## Schedule & Notes
 + Week 1: Binomial Model
   + Handout 1: Arbitrage and FTAP
