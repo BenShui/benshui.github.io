@@ -11,6 +11,8 @@ author_profile: true
 
 ### Asset Pricing
 + [Empirical Asset Pricing Notes]()
++ Asset Pricing Theory: To be completed
+  + Some handouts can be found here: [Master APT](../_teaching/2025-spring-mgtf411.md)
 + [Affine Term Structure Models](../files/Slides/ATSM_slides.pdf)
 
 ### Macro-Finance
@@ -18,8 +20,6 @@ author_profile: true
 ### Microeconomics
 + [Advanced Micro Theory I](https://felixmunozgarcia.com/econs-501/)
 + [Advanced Micro Theory II - Game Theory](https://felixmunozgarcia.com/econs-503/)
-+ Game Theory Notes: To be completed
-  + [Notes on PBE](../files/Notes/Notes_on_the_PBE.pdf)
 
 ### Econometrics
 + [EconometricsNotes](../files/Notes/EconometricsNotes.pdf)
