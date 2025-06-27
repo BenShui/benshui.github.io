@@ -2,7 +2,7 @@
 title: "Financial Econometrics and Empirical Methods(MGTF 404)"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2024-fall-teaching-1
+permalink: /teaching/2024-fall-mgtf404
 venue: "University of California, San Diego"
 date: 2024-09-26
 location: "San Diego, CA"

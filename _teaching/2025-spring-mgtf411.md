@@ -2,7 +2,7 @@
 title: "Asset Pricing Theory(MGTF 411)"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2025-spring-teaching-1
+permalink: /teaching/2025-spring-mgtf411
 venue: "University of California, San Diego"
 date: 2025-02-04
 location: "San Diego, CA"
