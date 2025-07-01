@@ -12,8 +12,8 @@ main:
   - title: "Discussion"
     url: /discussion/
     
-  - title: "Code"
-    url: /code/
+#  - title: "Code"
+#    url: /code/
 
   - title: "Resources"
     url: /resources/
