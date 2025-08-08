@@ -10,8 +10,7 @@ location: "San Diego, CA"
 
 ## Info
 
-+ Office Hour: TBA
-+ TA Review Session: TBA
++ TA Review Session: TBD
 
 ## Slides and Other Material
 + 
