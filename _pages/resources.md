@@ -20,6 +20,7 @@ author_profile: true
 ### Microeconomics
 + [Advanced Micro Theory I](https://felixmunozgarcia.com/econs-501/)
 + [Advanced Micro Theory II - Game Theory](https://felixmunozgarcia.com/econs-503/)
++ Theory of Decision under Uncertainty by Itzhak Gilboa
 
 ### Econometrics
 + [EconometricsNotes](../files/Notes/EconometricsNotes.pdf)
