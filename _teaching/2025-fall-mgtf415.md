@@ -1,13 +1,14 @@
 ---
-title: "Business Finance(MGT 180)"
+title: "Collecting and Analyzing Financial Data(MGTF415)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-summer2-mgt180
+permalink: /teaching/2025-fall-mgtf415
 venue: "University of California, San Diego"
-date: 2025-06-26
+date: 2025-09-25
 location: "San Diego, CA"
 ---
-The foundation tools of finance. I am also TA-ing for this course in Fall 2025.
+MQF Core Course
+
 ## Info
 
 + TA Review Session: TBD
