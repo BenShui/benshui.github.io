@@ -24,6 +24,7 @@ author_profile: true
 
 ### Econometrics
 + [EconometricsNotes](../files/Notes/EconometricsNotes.pdf)
++ [Bayesian Statistics Review](../files/Notes/Review_Bayesian.pdf)
 
 ### Math Notes
 Probability Theory:
