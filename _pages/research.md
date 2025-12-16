@@ -22,7 +22,7 @@ experimental and market settings but cannot be explained by risk-averse preferen
 
 # Research in Progress
 
-- **Option Implied Beliefs and Forward Guidance**
+- **Belief Aggregation in Prediction Markets**
   - Coming Soon
 
 - **Arbitrage-Free Extraction of Latent Economic Factors** (with Jun Liu and Jun Pan)

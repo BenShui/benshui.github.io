@@ -1,10 +1,9 @@
 ---
-title: "Collecting and Analyzing Financial Data(MGTF415)"
+title: "Collecting and Analyzing Financial Data(MGT 188)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-fall-mgtf415
+permalink: /teaching/2026-winter-mgt188
 venue: "University of California, San Diego"
-date: 2025-09-25
+date: 2025-12-16
 location: "San Diego, CA"
 ---
-MQF Core Course
