@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://rady.ucsd.edu/">Rady School of Management, UCSD</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://rady.ucsd.edu/">Rady School of Management, UCSD</a>.
 
 profile:
   align: right
