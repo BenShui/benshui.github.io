@@ -29,8 +29,15 @@ latest_posts:
 
 I am a Ph.D. student at Rady School of Management, UCSD, and I previously earned my Bachelor's degree at Southwestern University of Finance and Economics, majoring in Finance and Artificial Intelligence. My research interests focus on asset pricing, macro-finance, and game theory.
 
-Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<div style="margin-top:30px;">
+<p style="font-size: 16px; margin-bottom: 6px;" id="res-switch"><b><span style="padding-right: 0.375em;"><a href="mailto:{{ site.email | encode_email }}"><i class="fas fa-envelope fa-fw"></i></a></span><span style="font-family: Inconsolata,monospace; font-size: 16px;"><a href="mailto:{{ site.email | encode_email }}">jishui@ucsd.edu</a></span></b></p>
+<p style="font-size: 16px; margin-bottom: 32.5px">
+  <b>
+    <span style="padding-right: 0.375em;">
+      <a href="https://www.dropbox.com/scl/fi/9kd9ec59qg1uepgjet77b/jshui_cv.pdf?rlkey=48scg50ans7455n8jhki93vgt&st=lhkgc7i0&dl=0)">
+        <i class="fas fa-file-pdf fa-fw"></i>
+      </a>
+    </span>
+    <a href="https://www.dropbox.com/scl/fi/9kd9ec59qg1uepgjet77b/jshui_cv.pdf?rlkey=48scg50ans7455n8jhki93vgt&st=lhkgc7i0&dl=0)">CV</a>
+  </b>
+</p></div>
