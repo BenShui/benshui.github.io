@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student at Rady School of Management, UCSD, and I previously earned my Bachelor's degree at Southwestern University of Finance and Economics, majoring in Finance and Artificial Intelligence. My research interests focus on asset pricing, macro-finance, and game theory.
+I am a Ph.D. student at Rady School of Management, UCSD, and I previously earned my Bachelor's degree at Southwestern 
+University of Finance and Economics, majoring in Finance and Artificial Intelligence. My research interests focus on 
+asset pricing, macro-finance, and game theory.
