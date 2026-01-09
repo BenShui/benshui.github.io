@@ -34,10 +34,10 @@ I am a Ph.D. student at Rady School of Management, UCSD, and I previously earned
 <p style="font-size: 16px; margin-bottom: 32.5px">
   <b>
     <span style="padding-right: 0.375em;">
-      <a href="https://www.dropbox.com/scl/fi/9kd9ec59qg1uepgjet77b/jshui_cv.pdf?rlkey=48scg50ans7455n8jhki93vgt&st=lhkgc7i0&dl=0)">
+      <a href="https://www.dropbox.com/scl/fi/9kd9ec59qg1uepgjet77b/jshui_cv.pdf?rlkey=48scg50ans7455n8jhki93vgt&st=lhkgc7i0&dl=0">
         <i class="fas fa-file-pdf fa-fw"></i>
       </a>
     </span>
-    <a href="https://www.dropbox.com/scl/fi/9kd9ec59qg1uepgjet77b/jshui_cv.pdf?rlkey=48scg50ans7455n8jhki93vgt&st=lhkgc7i0&dl=0)">CV</a>
+    <a href="https://www.dropbox.com/scl/fi/9kd9ec59qg1uepgjet77b/jshui_cv.pdf?rlkey=48scg50ans7455n8jhki93vgt&st=lhkgc7i0&dl=0">CV</a>
   </b>
 </p></div>
