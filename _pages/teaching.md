@@ -1,12 +1,19 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## TA for Graduate Course
++ MGTF 403: Advanced Financial Risk Management (MQF)
++ MGTF 404: Financial Econometrics and Empirical Methods (MQF)
++ MGTF 411: Asset Pricing Theory (MQF)
++ MGTF 415: Collecting and Analyzing Financial Data (MQF)
++ MGTF 421: Corporate Finance (MQF)
 
-Organize your courses by years, topics, or universities, however you like!
+## TA for Undergraduate Course
++ MGT 180: Business Finance
++ MGT 188: Collecting and Analyzing Financial Data

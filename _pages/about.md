@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href="https://rady.ucsd.edu/">Rady School of Management, UCSD</a>.
 
