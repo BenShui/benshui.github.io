@@ -10,7 +10,6 @@ nav_order: 4
 ## PhD Notes
 
 ### Asset Pricing
-+ [Empirical Asset Pricing Notes]()
 + Asset Pricing Theory: To be completed
 + [Affine Term Structure Models](/files/Slides/ATSM_slides.pdf)
 
