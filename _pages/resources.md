@@ -13,12 +13,11 @@ nav_order: 4
 + Asset Pricing Theory: To be completed
 + [Affine Term Structure Models](/files/Slides/ATSM_slides.pdf)
 
-## Macro-Finance
-
 ## Microeconomics
 + [Advanced Micro Theory I](https://felixmunozgarcia.com/econs-501/)
 + [Advanced Micro Theory II - Game Theory](https://felixmunozgarcia.com/econs-503/)
 + Theory of Decision under Uncertainty by Itzhak Gilboa
++ [Behavioral Economics](https://danielmartin.research.st/courses)
 
 ## Econometrics
 + Micro-econometrics: To be completed
