@@ -21,3 +21,7 @@ redirect_to: /#research
       long and short positions with minor changes in market conditions. The agent may short
       an asset with a positive risk premium. These behaviors are consistent with findings in
       experimental and market settings but cannot be explained by risk-averse preferences.
+
+<p style="margin-top: 13px; font-size: 20px;"><b>Research In Progress</b></p>
+
+- Coming Soon
