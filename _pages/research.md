@@ -25,3 +25,4 @@ redirect_to: /#research
 <p style="margin-top: 13px; font-size: 20px;"><b>Research In Progress</b></p>
 
 - Behavioral Biases or Just Risk Perferences?
+- Arbitrage-Free extraction of bond risk factors
