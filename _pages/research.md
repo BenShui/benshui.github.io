@@ -24,4 +24,4 @@ redirect_to: /#research
 
 <p style="margin-top: 13px; font-size: 20px;"><b>Research In Progress</b></p>
 
-- Arbitrage-Free extraction of bond risk factors
+- **Arbitrage-Free extraction of bond risk factors** (with Jun Liu and Jun Pan)
