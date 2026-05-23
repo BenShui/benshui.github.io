@@ -3,7 +3,7 @@ layout: page
 permalink: /discussion/
 title: Discussions
 description: Discussions Slides
-nav: true
+nav: false
 nav_order: 2
 ---
 
