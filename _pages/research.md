@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Research
+description: Selected Research
 nav: true
 nav_order: 1
 redirect_to: /#research
@@ -25,3 +25,4 @@ redirect_to: /#research
 <p style="margin-top: 13px; font-size: 20px;"><b>Research In Progress</b></p>
 
 - **Forecasts**
+- **Arbitrage Free Factor Analysis**
