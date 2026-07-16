@@ -25,4 +25,4 @@ redirect_to: /#research
 <p style="margin-top: 13px; font-size: 20px;"><b>Research In Progress</b></p>
 
 - **Forecasts**
-- **Arbitrage Free Factor Analysis**
+- **Arbitrage Free Factor Analysis** (with Jun Liu)
