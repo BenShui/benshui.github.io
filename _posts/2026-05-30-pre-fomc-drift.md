@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research "Taste"
+title: Pre-FOMC Announcement Drift
 date: 2026-05-30 12:00:00-0700
 description: The disappearing pre-FOMC announcement drift
 tags: asset-pricing
