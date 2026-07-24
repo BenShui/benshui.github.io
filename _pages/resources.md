@@ -7,17 +7,17 @@ nav: true
 nav_order: 4
 ---
 
-# PhD Notes
+## PhD Notes
 
-## Asset Pricing
+### Asset Pricing
 + [Affine Term Structure Models](/files/Slides/ATSM_slides.pdf)
 
-## Microeconomics
+### Microeconomics
 + [Advanced Micro Theory I](https://felixmunozgarcia.com/econs-501/)
 + [Advanced Micro Theory II - Game Theory](https://felixmunozgarcia.com/econs-503/)
 + Theory of Decision under Uncertainty by Itzhak Gilboa
 
-## Math Notes
+### Math Notes
 Probability Theory:
 + [Probability Tools with Examples](https://mathweb.ucsd.edu/~bdriver/280_18-19_prob/Lecture_Notes/2018-19-Lecture%20Notes.pdf), by Bruce Driver (highly recommend)
 + [Notes on conditional expectation](/files/Notes/Notes_on_conditional_expectation.pdf)
@@ -27,5 +27,9 @@ Stochastic Calculus/Stochastic Differential Equations
 + [Seppalainen's notes](https://people.math.wisc.edu/~tseppalainen/bookpage.html)
 + Stochastic Calculus for ECON/Finance (To be completed)
 
-## For Master Students
+### For Master Students
 + [Quant Career Path](https://finmath.uchicago.edu/careers/career-paths-in-quantitative-finance/)
+
+### Coding
++ [Merely Useful Research Software Engineering with Python](https://third-bit.com/py-rse/)
++ [The Alan Turing Institute - Research Software Engineering with Python](https://alan-turing-institute.github.io/rse-course/html/index.html)
