@@ -32,7 +32,7 @@ nav_order: 4
 + Stochastic Calculus for ECON/Finance (To be completed)
 
 
-<p style="margin-top: 30px; margin-bottom: 10px; font-size: 24px; border-bottom: 1px solid #eaeaea; padding-bottom: 5px;"><b>For Master Students<</b></p>
+<p style="margin-top: 30px; margin-bottom: 10px; font-size: 24px; border-bottom: 1px solid #eaeaea; padding-bottom: 5px;"><b>For Master Students</b></p>
 
 + [Quant Career Path](https://finmath.uchicago.edu/careers/career-paths-in-quantitative-finance/)
 
