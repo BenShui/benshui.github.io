@@ -10,7 +10,7 @@ redirect_to: /#research
 
 <p style="margin-top: 13px; font-size: 20px;"><b>Working Papers</b></p>
 
-- **[Risk Seeking](../files/paper/LA_log_normal_v6.pdf)** (with Jun Liu and Kai Li)
+- **[Rational Risk Seeking](../files/paper/LA_log_normal_v6.pdf)** (with Jun Liu and Kai Li)
     - People are risk-seeking in certain situations, though they are normally risk-averse.
       The loss aversion utility function provides such an example. Risk seeking is largely
       understudied, probably because it usually does not allow optimal choices and are not
