@@ -2,7 +2,7 @@
 layout: post
 title: Term Premium
 date: 2026-10-17 22:00:00-0700
-description: What is "research taste"?
+description: What is term premium? Why there are so many different estimations?
 tags: asset-pricing
 categories: asset-pricing
 ---
