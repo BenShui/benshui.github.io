@@ -25,4 +25,5 @@ redirect_to: /#research
 <p style="margin-top: 13px; font-size: 20px;"><b>Research In Progress</b></p>
 
 - **Return-based Arbitrage Free Factor Analysis** (with Jun Liu and Jun Pan)
+- **The Macroeconomic Announcement Return Cycles** (with Fabrizio Ghezzi)
 - **Mortgage Rates and Monetary Policy**
